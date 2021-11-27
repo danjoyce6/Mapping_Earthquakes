@@ -1,6 +1,9 @@
 # Ignore the config.js file.
 config.js
-
+Earthquakes+pas7days
+Mapping_GeoJSON_Points
+Simple_Map
+Static
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
